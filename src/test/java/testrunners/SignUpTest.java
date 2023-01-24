@@ -8,7 +8,6 @@ import org.junit.platform.suite.api.Suite;
 @Suite
 @IncludeEngines("cucumber")
 @SelectClasspathResource("features")
-@IncludeTags({"SmokeTest", "RegularTest"})
-public class MenuManagementTest {
-
+@IncludeTags("SeleniumTest")
+public class SignUpTest {
 }

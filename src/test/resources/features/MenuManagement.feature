@@ -22,8 +22,3 @@ Scenario: Add third menu item
 Given I have a menu item with name "Chicken Sandwich" and price 10
 When I add that menu item
 Then Menu Item with name "Chicken Sandwich" should be added
-
-
-
-
-

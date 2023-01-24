@@ -6,4 +6,3 @@ Feature: Sign Up test
     When I click on button sign up
     Then I should see free sign up button
     And Sign up header is displayed
-
